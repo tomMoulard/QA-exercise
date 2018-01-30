@@ -1,0 +1,6 @@
+zmq
+six
+eventlet
+requests
+pyyaml
+-e git+http://github.com/open-io/oio-sds.git#egg=oio
